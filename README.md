@@ -1,1 +1,1 @@
-# X-Ray-Analysis-Model
+# Chest X-Ray Analysis Model
