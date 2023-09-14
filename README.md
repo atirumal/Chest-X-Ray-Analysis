@@ -11,3 +11,4 @@ As an example, here is the result for the model diagnosing Cardiomegaly from the
 <img width="582" alt="Screenshot 2023-09-14 at 2 52 04 PM" src="https://github.com/atirumal/Chest-X-Ray-Analysis/assets/78452887/ccc6482d-ada3-46c2-935d-151ccad6c91a">
 <img width="561" alt="Screenshot 2023-09-14 at 2 52 23 PM" src="https://github.com/atirumal/Chest-X-Ray-Analysis/assets/78452887/39350f65-1b93-4c28-85b8-2c0c0e73cc47">
 <img width="560" alt="Screenshot 2023-09-14 at 2 52 38 PM" src="https://github.com/atirumal/Chest-X-Ray-Analysis/assets/78452887/bbd7c9e4-b241-49de-964f-f48495dee3cf">
+<img width="581" alt="Screenshot 2023-09-14 at 3 01 10 PM" src="https://github.com/atirumal/Chest-X-Ray-Analysis/assets/78452887/901618a9-0f99-4e00-8bd2-824c4bc9d17b">
